@@ -1,0 +1,32 @@
+aid: hyrule-compendium
+name: Hyrule Compendium
+description: "Data on all interactive items from The Legend of Zelda: BOTW"
+url: https://github.com/gadhagod/Hyrule-Compendium-API
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: Hyrule Compendium
+    description: "Data on all interactive items from The Legend of Zelda: BOTW"
+    humanURL: https://github.com/gadhagod/Hyrule-Compendium-API
+    baseURL: https://github.com/gadhagod/Hyrule-Compendium-API
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://github.com/gadhagod/Hyrule-Compendium-API
+common:
+  - type: Website
+    url: https://github.com/gadhagod/Hyrule-Compendium-API
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
