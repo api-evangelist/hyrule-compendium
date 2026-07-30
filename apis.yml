@@ -1,4 +1,16 @@
 aid: hyrule-compendium
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hyrule-compendium.png
 name: Hyrule Compendium
 description: "Data on all interactive items from The Legend of Zelda: BOTW"
 url: https://github.com/gadhagod/Hyrule-Compendium-API
