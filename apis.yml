@@ -40,7 +40,8 @@ apis:
   - name: Hyrule Compendium
     description: "Data on all interactive items from The Legend of Zelda: BOTW"
     humanURL: https://github.com/gadhagod/Hyrule-Compendium-API
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
